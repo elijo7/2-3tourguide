@@ -1,0 +1,100 @@
+body{
+font-family:sans-serif;
+font-size: 18px;
+
+}
+
+.intenerari{
+position:relative;
+top: 50px;
+bottom:50px;
+}
+.teksti{
+  position: static;
+  left: 200px;
+  right: 200px;
+  top: 1300px;
+}
+
+#kalaja1{
+  float:left;
+  width: 600px;
+  height: 400px;
+}
+
+#liqeni2{
+  float:left;
+  width: 600px;
+  height: 400px;
+  margin-left: 60px;
+}
+
+#thethi3{
+  float:left;
+  width: 600px;
+  height: 400px;
+  margin-top:50px;
+}
+
+#ura4{
+  float:left;
+  width: 600px;
+  height: 400px;
+  margin-left: 60px;
+  margin-top:50px;
+}
+
+.kalaja{
+  float: left;
+  left: 530px;
+  margin-right:670px;
+}
+
+a:link {
+      text-decoration: none;
+}
+
+.info_det{
+margin-top:100px;
+}
+
+.liqeni{
+position: absolute;
+float: left;
+  margin-left: 660px;
+margin-top:400px;
+}
+
+.thethi{
+float: left;
+  left: 530px;
+  margin-right:670px;
+}
+
+
+
+
+.ura{
+position: absolute;
+float: left;
+  margin-left: 660px;
+margin-top:1200px;
+}
+
+.info_det2{
+position:relative;
+top:100px;
+}
+
+.btn{
+height: 50px;
+width:100px;
+font-size: 20px;
+}
+
+
+@media screen and (max-width: 600px)
+
+
+
+}
